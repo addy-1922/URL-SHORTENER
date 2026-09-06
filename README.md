@@ -135,8 +135,8 @@ The project is deployed on **Render** and can be accessed here:
 
 **Your Name**
 
-* GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-* LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR-PROFILE)
+* GitHub: [Your GitHub Profile](https://github.com/addy-1922)
+* LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/aditya-naik-5a7b79317)
 
 ---
 
